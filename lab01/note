@@ -1,0 +1,6 @@
+q3:
+(lldb) settings set target.input-path q3.txt
+(lldb) process launch
+
+q4:
+gcc -g -o int_hello interactive_hello.c
